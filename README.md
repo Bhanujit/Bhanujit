@@ -1,4 +1,4 @@
-<img src = "https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" />
+<img src = "https://krify.co/wp-content/uploads/2020/10/MERNsiderback.png" />
 
 <h1 align="center">Hi 👋, I'm Bhanujit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

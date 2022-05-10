@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Js and DSA**
 
-- You can go to my portfolio here https://bhanujit.netlify.app/
+- You can go to my portfolio by clicking here https://bhanujit.netlify.app/
 
 - 📫 How to reach me **bhanujit70087@gmail.com**
 
